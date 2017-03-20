@@ -12,6 +12,7 @@ namespace TestGitHub1
         {
             Console.WriteLine("Hello, Tamara!");
             Console.WriteLine("Ajd, pomozi boze!");
+            Console.WriteLine("Dijete, tvoje molitve su uslisene... Kodiraj s mirom!");
             Console.ReadKey();
         }
     }
